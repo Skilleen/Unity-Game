@@ -13,11 +13,14 @@ public class DwarfMovement : MonoBehaviour {
 	public float dwarfLife = 100f;
 	public bool goblinCollide = false;
 	public bool goblinCollide1 = false;
+	public bool wolfCollide = false;
+	public bool signContact = false;
 
 
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator>();
+
 
 	}
 	// Update is called once per frame
@@ -28,6 +31,12 @@ public class DwarfMovement : MonoBehaviour {
 		GameObject Goblin1 = GameObject.Find("Goblin 1");
 		GoblinScript goblinScript1 = Goblin1.GetComponent<GoblinScript>();
 
+		GameObject WolfRider = GameObject.Find("WolfRider");
+		WolfScript wolfScript = WolfRider.GetComponent<WolfScript>();
+
+		GameObject Axe = GameObject.Find("Axe");
+		AxScript axScript = Axe.GetComponent<AxScript>();
+		
 		anim.SetBool("attack", false);
 		anim.SetBool("walk", false); //reset animations on every update
 		anim.SetBool("hit", false);
@@ -83,8 +92,12 @@ public class DwarfMovement : MonoBehaviour {
 				if(goblinCollide && !goblinScript.goblinDead){
 					goblinScript.goblinLife=goblinScript.goblinLife-3f; //Do Damage
 					}
-				else if(goblinCollide1){
+				else if(goblinCollide1 && !goblinScript.goblinDead){
 					goblinScript1.goblinLife=goblinScript1.goblinLife-3f;
+				}
+				else if(wolfCollide){
+
+					wolfScript.wolfLife=wolfScript.wolfLife-3f;
 				}
 			}
 		}
@@ -95,6 +108,11 @@ public class DwarfMovement : MonoBehaviour {
 			dwarfLife=dwarfLife-0.1f;
 	}
 		if(goblinScript1.playerHit && goblinScript1.doDamage){
+			anim.SetBool("hit", true);
+			print(dwarfLife);
+			dwarfLife=dwarfLife-0.1f;
+		}
+		if(wolfScript.playerHit && wolfScript.doDamage){
 			anim.SetBool("hit", true);
 			print(dwarfLife);
 			dwarfLife=dwarfLife-0.1f;
@@ -115,6 +133,15 @@ public class DwarfMovement : MonoBehaviour {
 		}
 		if(col.gameObject.name == "Goblin 1"){
 			goblinCollide1=true;
+		}
+		if(col.gameObject.name == "WolfRider"){
+			wolfCollide=true;
+		}
+		if(col.gameObject.name == "Sign"){
+		    signContact = true;
+			GameObject sign = GameObject.Find("Canvas");
+			Score score = sign.GetComponent<Score>();
+			score.instruction.text="                                      Home of the Baba Clan";
 		}
 }
 }
