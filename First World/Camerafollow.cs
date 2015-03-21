@@ -18,5 +18,9 @@ public class Camerafollow : MonoBehaviour {
 		Vector3 playerpos = player.position;
 		playerpos.z = transform.position.z;
 		transform.position = playerpos;
+		//Quit Game
+		if (Input.GetKey(KeyCode.Escape)) {
+			Application.Quit(); 
+		}
 	}
 }
