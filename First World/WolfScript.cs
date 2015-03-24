@@ -8,15 +8,17 @@ public class WolfScript : MonoBehaviour {
 
 	public Transform target;
 	public float speed = 3f;
-	public float maxDistance = 30f;
-	public float attackDistance = 5f;
-	public float range;
+	private float maxDistance = 30f;
+	private float attackDistance = 5f;
+	private float range;
+	//I usually avoid the use of global variables, but unity encourages it for working with the unity interface.
 	public bool wolfDead=false;
-	public bool doDamage=false;
-	public bool playerHit=false;
-	public bool inRange=false;
+	public bool doDamage=false; //if both below are true.
+	public bool playerHit=false; //If the wolf hits the player
+	public bool inRange=false; //If player is in range
 	public float wolfLife=100f;
 	public bool facingRight=true;
+	public Rigidbody2D rb;
 	Animator anim;
 	// Use this for initialization
 	void Start () {
@@ -56,11 +58,16 @@ public class WolfScript : MonoBehaviour {
 
 		//Death
 		if(wolfLife<=0){
+			transform.position = new Vector3(transform.position.x,transform.position.y,2); //move on z.
 			anim.SetBool("dead",true);
 			anim.SetBool("attack", false);
 			anim.SetBool("walk", false);
 			speed = 0f;
 			wolfDead=true;
+			rb.isKinematic = true;
+			BoxCollider2D b; //Remove collider.
+			b = GetComponent<BoxCollider2D>();
+			b.enabled = false;
 		}
 	}
 	void OnCollisionEnter2D(Collision2D col){
