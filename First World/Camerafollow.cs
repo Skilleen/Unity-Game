@@ -6,12 +6,10 @@ using UnityEngine.UI;
  * 
  * */
 public class Camerafollow : MonoBehaviour {
-	Text instruction; 
 	private Transform player;
 	
 	void Start () {
 		player = GameObject.Find("Dwarf").transform;
-		instruction = GetComponent<Text>();
 	}
 	//Have the camera follow the dwarf.
 	void Update () {
