@@ -8,35 +8,32 @@ public class GoblinScript : MonoBehaviour {
 	//Variables for getting the goblin to follow the Player and to react to animations.
 	public Transform target;
 	public float speed = 3f;
-	private float minDistance = 1f;
 	private float maxDistance = 30f;
 	private float attackDistance = 5f;
-	private float range;
+    private float range;
+	private Animator anim;
+	//I usually avoid the use of global variables, but unity encourages it for working with the unity interface.
 	public bool goblinDead=false;
-	public bool goblinDead1=false;
-	public bool doDamage=false;
-	public bool playerHit=false;
-	public bool inRange=false;
+	public bool doDamage=false; //if both below are true.
+	public bool playerHit=false; //If the goblin hits the player
+	public bool inRange=false; //If player is in range
 	public float goblinLife=50f; 
+	public Rigidbody2D rb;
+	public bool facingRight=true;
 
-
-	Animator anim;
-	void Start () {
+	
+	void Start () { 
 		anim = GetComponent<Animator>();
 	}
-	private bool facingRight=true;
-
+	
 	void FixedUpdate ()
 	{	
-		GameObject Dwarf = GameObject.Find("Dwarf");
-		DwarfMovement dwarfScript = Dwarf.GetComponent<DwarfMovement>();
 
 		doDamage=false;
 		playerHit=false;
 		//To find and move to the Player
 		float myposition = transform.position.x;
 		float dwarfposition = target.position.x;
-		float h = Input.GetAxis("Horizontal");
 		if (dwarfposition >myposition && !facingRight){
 			Flip(); }
 		else if(myposition > dwarfposition && facingRight){
@@ -62,12 +59,17 @@ public class GoblinScript : MonoBehaviour {
 		}
 		//Death
 		if(goblinLife<=0){
+			transform.position = new Vector3(transform.position.x,transform.position.y,2); //move on the z.
 			anim.SetBool("dead",true);
 			anim.SetBool("attack", false);
 			anim.SetBool("walk", false);
 			anim.SetBool("hit", false);
 			speed = 0f;
 			goblinDead=true;
+			rb.isKinematic = true;
+			BoxCollider2D b; //Remove the collision box.
+			b = GetComponent<BoxCollider2D>();
+			b.enabled = false;
 		}
 	}
 	//Handles Collisions
@@ -91,6 +93,7 @@ public class GoblinScript : MonoBehaviour {
 		transform.localScale = theScale;
 	}
 	}
+
 
 	}
 	
