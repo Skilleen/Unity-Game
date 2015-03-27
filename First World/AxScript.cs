@@ -9,13 +9,8 @@ public class AxScript : MonoBehaviour {
 	public bool axeContact = false;
 	public bool hasAxe = false;
 	private int count = 0; 
-	void Start () {
-
-	}
 	
-	// Update is called once per frame
-	void Update () {
-	}
+
 	//If the dwarf picks up the axe.
 	void OnCollisionEnter2D(Collision2D col){
 		if(col.gameObject.name == "Dwarf" && count == 0){

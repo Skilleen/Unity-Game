@@ -170,6 +170,7 @@ public class DwarfMovement : MonoBehaviour {
 	}
 	}
 
+
 	//Handiling Collisions.
 	void OnCollisionEnter2D(Collision2D col){
 		GameObject sign = GameObject.Find("Canvas");
@@ -206,7 +207,10 @@ public class DwarfMovement : MonoBehaviour {
 			GameObject Peasant = GameObject.Find("Peasant");
 			NPC_Dialog npc = Peasant.GetComponent<NPC_Dialog>();
 			if(npc.questAccept){
-				score.instruction.text="  The Door unlocks! Press ENTER to proceed..";
+				score.instruction.text="  The Door unlocks! Press ENTER to proceed.";
+				//if(Input.GetKey(KeyCode.Return)){
+				//Application.LoadLevel("World One Cave");
+				//}
 			}
 			else{
 			score.instruction.text="                     The Door is Locked.";
@@ -214,4 +218,15 @@ public class DwarfMovement : MonoBehaviour {
 		}
 
 }
+	void OnCollisionStay2D(Collision2D col){
+		if(col.gameObject.name == "CaveEntrance"){
+			GameObject Peasant = GameObject.Find("Peasant");
+			NPC_Dialog npc = Peasant.GetComponent<NPC_Dialog>();
+			if(npc.questAccept){
+				if(Input.GetKey(KeyCode.Return)){
+					Application.LoadLevel("World One Cave");
+				}
+			}
+		}
+	}
 }
