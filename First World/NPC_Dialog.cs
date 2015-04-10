@@ -15,11 +15,15 @@ public class NPC_Dialog : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		GameObject Scroll = GameObject.Find("Scroll");
+		ScrollScript scrollScript = Scroll.GetComponent<ScrollScript>();
 		//If the player has moved away
 		range = Vector2.Distance(transform.position, target.position);
 		if(range >=5){
 			displayDialog=false;
-			Cursor.visible=false;
+			if(!scrollScript.hasScroll){
+				Cursor.visible=false;
+			}
 		}
 		rb = GetComponent<Rigidbody2D>();
 		if(rb.mass==2){

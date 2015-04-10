@@ -7,22 +7,34 @@ using UnityEngine.UI;
  * */
 public class Score : MonoBehaviour {
 	public Text instruction;
-	public int armourLevel = 5;
-	public int strengthLevel = 10;
-	public int count = 0;
+	public int armourLevel;
+	public int strengthLevel;
+	private int count = 0;
 	// Use this for initialization
 	void Start () {
+		GameObject Scroll = GameObject.Find("Scroll");
+		ScrollScript scrollScript = Scroll.GetComponent<ScrollScript>();
 		instruction = GetComponent<Text>();
 		//Screen.lockCursor = false;
 		Cursor.visible = false;
+		if(!scrollScript.hasScroll){
+			strengthLevel = 10;
+			armourLevel = 5;
+		}
+		else{
+			armourLevel = PlayerPrefs.GetInt("armour");
+			strengthLevel = PlayerPrefs.GetInt("strength");
+		}
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		GameObject Dwarf = GameObject.Find("Dwarf");
-		DwarfMovement dwarfScript = Dwarf.GetComponent<DwarfMovement>();
 		GameObject Axe = GameObject.Find("Axe");
 		AxScript axScript = Axe.GetComponent<AxScript>();
+		PlayerPrefs.SetInt("strength", strengthLevel);
+		PlayerPrefs.SetInt ("armour",armourLevel);
+		GameObject Dwarf = GameObject.Find("Dwarf");
+		DwarfMovement dwarfScript = Dwarf.GetComponent<DwarfMovement>();
 		//If the dwarf collides with the sign.
 		if(dwarfScript.signContact){
 			dwarfScript.signContact = false;
@@ -40,12 +52,13 @@ public class Score : MonoBehaviour {
 		}
 		else if(dwarfScript.signContact==false && count==0){
 
-		instruction.text="Health: "+dwarfScript.dwarfLife.ToString("n2")+"   Armour:"+armourLevel+"    Strength:"+strengthLevel;
+			instruction.text="Health: "+dwarfScript.dwarfLife.ToString("n2")+"   Armour:"+PlayerPrefs.GetInt("armour")+"    Strength:"+PlayerPrefs.GetInt("strength");;
 		}
 		if(count>0){
 			count--;
 		}
 		axScript.axeContact=false;
 	}
+	
 
 }
