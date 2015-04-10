@@ -17,7 +17,8 @@ public class panelVisible : MonoBehaviour {
 		
 		void Start ()
 		{
-		canvasGroup.alpha=0; //Make the panel invisible
+			canvasGroup.alpha=0; //Make the panel invisible
+
 		}
 
 		void Update (){
