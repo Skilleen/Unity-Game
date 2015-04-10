@@ -42,6 +42,8 @@ public class DwarfCave : MonoBehaviour {
 		for(int i =0; i<3; i++){
 			cyclopsCollides[i]=false;
 		}
+
+		dwarfLife = PlayerPrefs.GetFloat("health");
 		
 		
 	}
@@ -57,6 +59,20 @@ public class DwarfCave : MonoBehaviour {
 		anim.SetBool("attack", false);
 		anim.SetBool("walk", false); //reset animations on every update
 		anim.SetBool("hit", false);
+
+		//Reseting Color if Hit
+		for(int i = 0; i<13; i++){
+			goblinArray[i].GetComponent<SpriteRenderer>().color = Color.white;
+		}
+		for(int i = 0; i<7; i++){
+			wolfArray[i].GetComponent<SpriteRenderer>().color = Color.white;
+		}
+
+		for(int i =0; i<3; i++){
+			cyclopsArray[i].GetComponent<SpriteRenderer>().color = Color.white;
+		}
+
+		Behemoth.GetComponent<SpriteRenderer>().color = Color.white;
 		
 		//Following Code is to get the player to move
 		if (Input.GetKey(KeyCode.A) && !dead)
@@ -110,6 +126,7 @@ public class DwarfCave : MonoBehaviour {
 				//Here I handle the health and damage of each Goblin.
 				for(int i=0; i<13;i++){
 					if(goblinCollides[i] && !scriptsArray[i].goblinDead && !(facingRight==scriptsArray[i].facingRight) && scriptsArray[i].doDamage){
+						goblinArray[i].GetComponent<SpriteRenderer>().color = Color.red;
 						if(axScript.hasAxe){
 							scriptsArray[i].goblinLife=scriptsArray[i].goblinLife-4f;
 						}
@@ -121,6 +138,7 @@ public class DwarfCave : MonoBehaviour {
 				//Here I handle the health and damage of each Wolf.
 				for(int i=0; i<7;i++){
 					if(wolfCollides[i] && !scriptsArrayW[i].wolfDead && !(facingRight==scriptsArrayW[i].facingRight) && scriptsArrayW[i].doDamage){
+						wolfArray[i].GetComponent<SpriteRenderer>().color = Color.red;
 						if(axScript.hasAxe){
 							scriptsArrayW[i].wolfLife=scriptsArrayW[i].wolfLife-4f;
 						}
@@ -132,6 +150,7 @@ public class DwarfCave : MonoBehaviour {
 				//Here I handle the health and damage of each Ogre.
 				for(int i=0; i<3;i++){
 					if(cyclopsCollides[i] && !scriptsArrayC[i].cyclopsDead && !(facingRight==scriptsArrayC[i].facingRight) && scriptsArrayC[i].doDamage){
+						cyclopsArray[i].GetComponent<SpriteRenderer>().color = Color.red;
 						if(axScript.hasAxe){
 							scriptsArrayC[i].cyclopsLife=scriptsArrayC[i].cyclopsLife-4f;
 						}
@@ -141,6 +160,7 @@ public class DwarfCave : MonoBehaviour {
 					}
 				}
 				if(behemothCollide && !behemothScript.behemothDead && !(facingRight==behemothScript.facingRight) && behemothScript.doDamage){
+					Behemoth.GetComponent<SpriteRenderer>().color = Color.red;
 					if(axScript.hasAxe){
 						behemothScript.behemothLife=behemothScript.behemothLife-4f;
 					}
@@ -192,7 +212,9 @@ public class DwarfCave : MonoBehaviour {
 	//Handiling Collisions.
 	void OnCollisionEnter2D(Collision2D col){
 		GameObject sign = GameObject.Find("Canvas");
-		Score score = sign.GetComponent<Score>();
+		ScoreCave score = sign.GetComponent<ScoreCave>();
+		GameObject Scroll = GameObject.Find("Scroll");
+		ScrollScript scrollScript = Scroll.GetComponent<ScrollScript>();
 		
 		//Dealing with collisions with the Goblins.
 
@@ -218,8 +240,26 @@ public class DwarfCave : MonoBehaviour {
 			behemothCollide = true;
 		}
 
+		if(col.gameObject.name=="Cave Exit" && !scrollScript.hasScroll){
+			caveContact = true;
+			score.instruction.text="             You still have work to do here.";
+		}
+		else if(col.gameObject.name=="Cave Exit" && scrollScript.hasScroll){
+			score.instruction.text="                          \"Enter\" to Exit";
+			caveContact = true;
+		}
 
 		
 	}
+	void OnCollisionStay2D(Collision2D col){
+		GameObject Scroll = GameObject.Find("Scroll");
+		ScrollScript scrollScript = Scroll.GetComponent<ScrollScript>();
+		if(col.gameObject.name == "Cave Exit" && scrollScript.hasScroll){
+			if(Input.GetKey(KeyCode.Return)){
+				Application.LoadLevel("World One Done");
+			}
+		}
+	}
+
 
 }
