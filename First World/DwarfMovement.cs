@@ -41,17 +41,32 @@ public class DwarfMovement : MonoBehaviour {
 		for(int i =0; i<6; i++){
 			ogreCollides[i]=false;
 		}
-
-
 	}
+
 	// Update is called once per frame
 	void FixedUpdate () {
+		GameObject Scroll = GameObject.Find("Scroll");
+		ScrollScript scrollScript = Scroll.GetComponent<ScrollScript>();
+		PlayerPrefs.SetFloat("health",dwarfLife);
 		GameObject Axe = GameObject.Find("Axe");
 		AxScript axScript = Axe.GetComponent<AxScript>();
 			
 		anim.SetBool("attack", false);
 		anim.SetBool("walk", false); //reset animations on every update
 		anim.SetBool("hit", false);
+
+		//Reseting Color if Hit
+		if(!scrollScript.hasScroll){
+		for(int i = 0; i<15; i++){
+			goblinArray[i].GetComponent<SpriteRenderer>().color = Color.white;
+		}
+		for(int i = 0; i<5; i++){
+			wolfArray[i].GetComponent<SpriteRenderer>().color = Color.white;
+		}
+		for(int i =0; i<6; i++){
+			ogreArray[i].GetComponent<SpriteRenderer>().color = Color.white;
+		}
+		}
 
 		//Following Code is to get the player to move
 		if (Input.GetKey(KeyCode.A) && !dead)
@@ -92,6 +107,8 @@ public class DwarfMovement : MonoBehaviour {
 
 		}
 		//For attacking
+
+
 		if(Input.GetMouseButton(0)) 
 		{ 
 
@@ -101,10 +118,13 @@ public class DwarfMovement : MonoBehaviour {
 			}
 			else{
 				anim.SetBool("attack", true);
+				if(!scrollScript.hasScroll){
 				//Here I handle the health and damage of each Goblin.
+				 //Checks that they do not have the scroll yet
 				for(int i=0; i<15;i++){
 					if(goblinCollides[i] && !scriptsArray[i].goblinDead && !(facingRight==scriptsArray[i].facingRight) && scriptsArray[i].doDamage){
-						if(axScript.hasAxe){
+							goblinArray[i].GetComponent<SpriteRenderer>().color = Color.red;
+							if(axScript.hasAxe){
 							scriptsArray[i].goblinLife=scriptsArray[i].goblinLife-4f;
 						}
 						else{
@@ -115,7 +135,8 @@ public class DwarfMovement : MonoBehaviour {
 				//Here I handle the health and damage of each Wolf.
 				for(int i=0; i<5;i++){
 					if(wolfCollides[i] && !scriptsArrayW[i].wolfDead && !(facingRight==scriptsArrayW[i].facingRight) && scriptsArrayW[i].doDamage){
-						if(axScript.hasAxe){
+							wolfArray[i].GetComponent<SpriteRenderer>().color = Color.red;
+							if(axScript.hasAxe){
 							scriptsArrayW[i].wolfLife=scriptsArrayW[i].wolfLife-4f;
 						}
 						else{
@@ -126,7 +147,8 @@ public class DwarfMovement : MonoBehaviour {
 				//Here I handle the health and damage of each Ogre.
 				for(int i=0; i<6;i++){
 					if(ogreCollides[i] && !scriptsArrayO[i].ogreDead && !(facingRight==scriptsArrayO[i].facingRight) && scriptsArrayO[i].doDamage){
-						if(axScript.hasAxe){
+							ogreArray[i].GetComponent<SpriteRenderer>().color = Color.red;
+							if(axScript.hasAxe){
 							scriptsArrayO[i].ogreLife=scriptsArrayO[i].ogreLife-4f;
 						}
 						else{
@@ -135,9 +157,10 @@ public class DwarfMovement : MonoBehaviour {
 					}
 				}		
 			}}
-
+		}
 
 		//Checking if the dwarf has been hit.
+		if(!scrollScript.hasScroll){ //Checks that they do not have the scroll yet
 		for(int i =0; i<15; i++){
 			if(scriptsArray[i].playerHit && scriptsArray[i].doDamage){
 				anim.SetBool("hit", true);
@@ -169,12 +192,15 @@ public class DwarfMovement : MonoBehaviour {
 			dead=true;
 	}
 	}
-
+	}
 
 	//Handiling Collisions.
 	void OnCollisionEnter2D(Collision2D col){
+		GameObject Scroll = GameObject.Find("Scroll");
+		ScrollScript scrollScript = Scroll.GetComponent<ScrollScript>();
 		GameObject sign = GameObject.Find("Canvas");
 		Score score = sign.GetComponent<Score>();
+		if(!scrollScript.hasScroll){
 
 		//Dealing with collisions with the Goblins.
 		for(int i = 0; i<15; i++){
@@ -208,18 +234,18 @@ public class DwarfMovement : MonoBehaviour {
 			NPC_Dialog npc = Peasant.GetComponent<NPC_Dialog>();
 			if(npc.questAccept){
 				score.instruction.text="  The Door unlocks! Press ENTER to proceed.";
-				//if(Input.GetKey(KeyCode.Return)){
-				//Application.LoadLevel("World One Cave");
-				//}
 			}
 			else{
 			score.instruction.text="                     The Door is Locked.";
 			}
 		}
+		}
 
 }
 	void OnCollisionStay2D(Collision2D col){
-		if(col.gameObject.name == "CaveEntrance"){
+		GameObject Scroll = GameObject.Find("Scroll");
+		ScrollScript scrollScript = Scroll.GetComponent<ScrollScript>();
+		if(col.gameObject.name == "CaveEntrance" && !scrollScript.hasScroll){
 			GameObject Peasant = GameObject.Find("Peasant");
 			NPC_Dialog npc = Peasant.GetComponent<NPC_Dialog>();
 			if(npc.questAccept){
