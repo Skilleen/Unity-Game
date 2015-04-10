@@ -22,6 +22,7 @@ public class AxScript : MonoBehaviour {
 			axeContact = true;
 			hasAxe = true;
 			score.instruction.text=" You have Aquired the Axe of Smite (Strength +5)";
+
 		}
 	}
 }
