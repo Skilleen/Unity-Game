@@ -1,0 +1,1705 @@
+fileFormatVersion: 2
+guid: 985fa8fa3b1f1924b8298d7fec576e93
+timeCreated: 1426121374
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WolfRider_0
+    21300002: WolfRider_1
+    21300004: WolfRider_2
+    21300006: WolfRider_3
+    21300008: WolfRider_4
+    21300010: WolfRider_5
+    21300012: WolfRider_6
+    21300014: WolfRider_7
+    21300016: WolfRider_8
+    21300018: WolfRider_9
+    21300020: WolfRider_10
+    21300022: WolfRider_11
+    21300024: WolfRider_12
+    21300026: WolfRider_13
+    21300028: WolfRider_14
+    21300030: WolfRider_15
+    21300032: WolfRider_16
+    21300034: WolfRider_17
+    21300036: WolfRider_18
+    21300038: WolfRider_19
+    21300040: WolfRider_20
+    21300042: WolfRider_21
+    21300044: WolfRider_22
+    21300046: WolfRider_23
+    21300048: WolfRider_24
+    21300050: WolfRider_25
+    21300052: WolfRider_26
+    21300054: WolfRider_27
+    21300056: WolfRider_28
+    21300058: WolfRider_29
+    21300060: WolfRider_30
+    21300062: WolfRider_31
+    21300064: WolfRider_32
+    21300066: WolfRider_33
+    21300068: WolfRider_34
+    21300070: WolfRider_35
+    21300072: WolfRider_36
+    21300074: WolfRider_37
+    21300076: WolfRider_38
+    21300078: WolfRider_39
+    21300080: WolfRider_40
+    21300082: WolfRider_41
+    21300084: WolfRider_42
+    21300086: WolfRider_43
+    21300088: WolfRider_44
+    21300090: WolfRider_45
+    21300092: WolfRider_46
+    21300094: WolfRider_47
+    21300096: WolfRider_48
+    21300098: WolfRider_49
+    21300100: WolfRider_50
+    21300102: WolfRider_51
+    21300104: WolfRider_52
+    21300106: WolfRider_53
+    21300108: WolfRider_54
+    21300110: WolfRider_55
+    21300112: WolfRider_56
+    21300114: WolfRider_57
+    21300116: WolfRider_58
+    21300118: WolfRider_59
+    21300120: WolfRider_60
+    21300122: WolfRider_61
+    21300124: WolfRider_62
+    21300126: WolfRider_63
+    21300128: WolfRider_64
+    21300130: WolfRider_65
+    21300132: WolfRider_66
+    21300134: WolfRider_67
+    21300136: WolfRider_68
+    21300138: WolfRider_69
+    21300140: WolfRider_70
+    21300142: WolfRider_71
+    21300144: WolfRider_72
+    21300146: WolfRider_73
+    21300148: WolfRider_74
+    21300150: WolfRider_75
+    21300152: WolfRider_76
+    21300154: WolfRider_77
+    21300156: WolfRider_78
+    21300158: WolfRider_79
+    21300160: WolfRider_80
+    21300162: WolfRider_81
+    21300164: WolfRider_82
+    21300166: WolfRider_83
+    21300168: WolfRider_84
+    21300170: WolfRider_85
+    21300172: WolfRider_86
+    21300174: WolfRider_87
+    21300176: WolfRider_88
+    21300178: WolfRider_89
+    21300180: WolfRider_90
+    21300182: WolfRider_91
+    21300184: WolfRider_92
+    21300186: WolfRider_93
+    21300188: WolfRider_94
+    21300190: WolfRider_95
+    21300192: WolfRider_96
+    21300194: WolfRider_97
+    21300196: WolfRider_98
+    21300198: WolfRider_99
+    21300200: WolfRider_100
+    21300202: WolfRider_101
+    21300204: WolfRider_102
+    21300206: WolfRider_103
+    21300208: WolfRider_104
+    21300210: WolfRider_105
+    21300212: WolfRider_106
+    21300214: WolfRider_107
+    21300216: WolfRider_108
+    21300218: WolfRider_109
+    21300220: WolfRider_110
+    21300222: WolfRider_111
+    21300224: WolfRider_112
+    21300226: WolfRider_113
+    21300228: WolfRider_114
+    21300230: WolfRider_115
+    21300232: WolfRider_116
+    21300234: WolfRider_117
+    21300236: WolfRider_118
+    21300238: WolfRider_119
+    21300240: WolfRider_120
+    21300242: WolfRider_121
+    21300244: WolfRider_122
+    21300246: WolfRider_123
+    21300248: WolfRider_124
+    21300250: WolfRider_125
+    21300252: WolfRider_126
+    21300254: WolfRider_127
+    21300256: WolfRider_128
+    21300258: WolfRider_129
+    21300260: WolfRider_130
+    21300262: WolfRider_131
+    21300264: WolfRider_132
+    21300266: WolfRider_133
+    21300268: WolfRider_134
+    21300270: WolfRider_135
+    21300272: WolfRider_136
+    21300274: WolfRider_137
+    21300276: WolfRider_138
+    21300278: WolfRider_139
+    21300280: WolfRider_140
+    21300282: WolfRider_141
+    21300284: WolfRider_142
+    21300286: WolfRider_143
+    21300288: WolfRider_144
+    21300290: WolfRider_145
+    21300292: WolfRider_146
+    21300294: WolfRider_147
+    21300296: WolfRider_148
+    21300298: WolfRider_149
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WolfRider_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 903
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 903
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 903
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 903
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 903
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_5
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 903
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_6
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 903
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 903
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 780
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 778
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 782
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 780
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_12
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 778
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 780
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_14
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 779
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_15
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 777
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 656
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 655
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 654
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 654
+        width: 109
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 655
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_21
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 655
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_22
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 668
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_23
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 702
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_24
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 709
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_25
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_26
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 709
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_27
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 709
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_28
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 709
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_29
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 709
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_31
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 686
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_32
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_33
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 686
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_34
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_35
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_36
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 686
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_37
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_38
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 686
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_39
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 686
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_40
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 683
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_41
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 686
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_42
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 686
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_43
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_44
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_45
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 686
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_46
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 686
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_47
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_48
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 683
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_49
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 686
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_50
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 670
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_51
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 670
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_52
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 668
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_53
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 670
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_54
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 670
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_55
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 670
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_56
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 667
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_57
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 670
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_58
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 670
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_59
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 670
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_60
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 670
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_61
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 670
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_62
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 670
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_63
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 670
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_64
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 670
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_65
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 532
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 530
+        width: 125
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_67
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 530
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 529
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_69
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 531
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_70
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 531
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_71
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 504
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_72
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 504
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 398
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 400
+        width: 123
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_75
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 396
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_76
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 395
+        width: 122
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_77
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 399
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_78
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 397
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_79
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 438
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_80
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 438
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_81
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 264
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_82
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 370
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_83
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 259
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_84
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 254
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_85
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 252
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_86
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 258
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_87
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 258
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_88
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 136
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_89
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 136
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_90
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 134
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_91
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 134
+        width: 100
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_92
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 135
+        width: 103
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_93
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 133
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_94
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 195
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_95
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 192
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_96
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 192
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_97
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 195
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_98
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 195
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_99
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 195
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_100
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 192
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_101
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 142
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_102
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 177
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_103
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_104
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_105
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_106
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 177
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_107
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_108
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_109
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 177
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_110
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_111
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 177
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_112
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_113
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_114
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_115
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 161
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_116
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 161
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_117
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_118
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 158
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_119
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 161
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_120
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_121
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_122
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 159
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_123
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 158
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_124
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 161
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_125
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 161
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_126
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 161
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_127
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_128
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 161
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_129
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 142
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_130
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 145
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_131
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 145
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_132
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 145
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_133
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 145
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_134
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 142
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_135
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 145
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_136
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 145
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_137
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 145
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_138
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 145
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_139
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 145
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_140
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 145
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_141
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 145
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_142
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_143
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_145
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 8
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_146
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 10
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_147
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 15
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_148
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 19
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WolfRider_149
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 20
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

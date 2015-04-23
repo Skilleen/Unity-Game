@@ -1,0 +1,1694 @@
+fileFormatVersion: 2
+guid: b8749fc2e765681479a552e21f1c2863
+timeCreated: 1426736304
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ogre_0
+    21300002: Ogre_1
+    21300004: Ogre_2
+    21300006: Ogre_3
+    21300008: Ogre_4
+    21300010: Ogre_5
+    21300012: Ogre_6
+    21300014: Ogre_7
+    21300016: Ogre_8
+    21300018: Ogre_9
+    21300020: Ogre_10
+    21300022: Ogre_11
+    21300024: Ogre_12
+    21300026: Ogre_13
+    21300028: Ogre_14
+    21300030: Ogre_15
+    21300032: Ogre_16
+    21300034: Ogre_17
+    21300036: Ogre_18
+    21300038: Ogre_19
+    21300040: Ogre_20
+    21300042: Ogre_21
+    21300044: Ogre_22
+    21300046: Ogre_23
+    21300048: Ogre_24
+    21300050: Ogre_25
+    21300052: Ogre_26
+    21300054: Ogre_27
+    21300056: Ogre_28
+    21300058: Ogre_29
+    21300060: Ogre_30
+    21300062: Ogre_31
+    21300064: Ogre_32
+    21300066: Ogre_33
+    21300068: Ogre_34
+    21300070: Ogre_35
+    21300072: Ogre_36
+    21300074: Ogre_37
+    21300076: Ogre_38
+    21300078: Ogre_39
+    21300080: Ogre_40
+    21300082: Ogre_41
+    21300084: Ogre_42
+    21300086: Ogre_43
+    21300088: Ogre_44
+    21300090: Ogre_45
+    21300092: Ogre_46
+    21300094: Ogre_47
+    21300096: Ogre_48
+    21300098: Ogre_49
+    21300100: Ogre_50
+    21300102: Ogre_51
+    21300104: Ogre_52
+    21300106: Ogre_53
+    21300108: Ogre_54
+    21300110: Ogre_55
+    21300112: Ogre_56
+    21300114: Ogre_57
+    21300116: Ogre_58
+    21300118: Ogre_59
+    21300120: Ogre_60
+    21300122: Ogre_61
+    21300124: Ogre_62
+    21300126: Ogre_63
+    21300128: Ogre_64
+    21300130: Ogre_65
+    21300132: Ogre_66
+    21300134: Ogre_67
+    21300136: Ogre_68
+    21300138: Ogre_69
+    21300140: Ogre_70
+    21300142: Ogre_71
+    21300144: Ogre_72
+    21300146: Ogre_73
+    21300148: Ogre_74
+    21300150: Ogre_75
+    21300152: Ogre_76
+    21300154: Ogre_77
+    21300156: Ogre_78
+    21300158: Ogre_79
+    21300160: Ogre_80
+    21300162: Ogre_81
+    21300164: Ogre_82
+    21300166: Ogre_83
+    21300168: Ogre_84
+    21300170: Ogre_85
+    21300172: Ogre_86
+    21300174: Ogre_87
+    21300176: Ogre_88
+    21300178: Ogre_89
+    21300180: Ogre_90
+    21300182: Ogre_91
+    21300184: Ogre_92
+    21300186: Ogre_93
+    21300188: Ogre_94
+    21300190: Ogre_95
+    21300192: Ogre_96
+    21300194: Ogre_97
+    21300196: Ogre_98
+    21300198: Ogre_99
+    21300200: Ogre_100
+    21300202: Ogre_101
+    21300204: Ogre_102
+    21300206: Ogre_103
+    21300208: Ogre_104
+    21300210: Ogre_105
+    21300212: Ogre_106
+    21300214: Ogre_107
+    21300216: Ogre_108
+    21300218: Ogre_109
+    21300220: Ogre_110
+    21300222: Ogre_111
+    21300224: Ogre_112
+    21300226: Ogre_113
+    21300228: Ogre_114
+    21300230: Ogre_115
+    21300232: Ogre_116
+    21300234: Ogre_117
+    21300236: Ogre_118
+    21300238: Ogre_119
+    21300240: Ogre_120
+    21300242: Ogre_121
+    21300244: Ogre_122
+    21300246: Ogre_123
+    21300248: Ogre_124
+    21300250: Ogre_125
+    21300252: Ogre_126
+    21300254: Ogre_127
+    21300256: Ogre_128
+    21300258: Ogre_129
+    21300260: Ogre_130
+    21300262: Ogre_131
+    21300264: Ogre_132
+    21300266: Ogre_133
+    21300268: Ogre_134
+    21300270: Ogre_135
+    21300272: Ogre_136
+    21300274: Ogre_137
+    21300276: Ogre_138
+    21300278: Ogre_139
+    21300280: Ogre_140
+    21300282: Ogre_141
+    21300284: Ogre_142
+    21300286: Ogre_143
+    21300288: Ogre_144
+    21300290: Ogre_145
+    21300292: Ogre_146
+    21300294: Ogre_147
+    21300296: Ogre_148
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ogre_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 984
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 984
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 984
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 984
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 984
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 984
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 984
+        width: 35
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 984
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 868
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 869
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 868
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 867
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 867
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 865
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_14
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 866
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_15
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 867
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 756
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 758
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 757
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 755
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 799
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_22
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 796
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 799
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_24
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 799
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_25
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 732
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_26
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 732
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_27
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 732
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_28
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 732
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 774
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 774
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_32
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 774
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_35
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 774
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_37
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 774
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_38
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 771
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 774
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_40
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 774
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_41
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_42
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_43
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 774
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 774
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_45
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_46
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 771
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_47
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 774
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_48
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 758
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_49
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 758
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_50
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 756
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 758
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_52
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 758
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_53
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 758
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_54
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 755
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_55
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 758
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_56
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 758
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_57
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 758
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_58
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 758
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_59
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 758
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_60
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 758
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_61
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 758
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_62
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 758
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_63
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 608
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 608
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 608
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_66
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 608
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 608
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_68
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 608
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_69
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 602
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_70
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 602
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_71
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 463
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 463
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_73
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 463
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_74
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 460
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_75
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 463
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_76
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 463
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_77
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 536
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_78
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 536
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 311
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_80
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 311
+        width: 88
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_81
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 300
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_82
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 297
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_83
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 307
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_84
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 311
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_85
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 367
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_86
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 349
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_87
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_88
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_89
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 349
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_90
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 349
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_91
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 349
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_92
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 346
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_93
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 331
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_94
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 331
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_95
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_96
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_97
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 331
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_98
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_99
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_100
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 331
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_101
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_102
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 331
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_103
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_104
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 331
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_105
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 315
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_106
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 315
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_107
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 315
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_108
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 315
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_109
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 312
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_110
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 315
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_111
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 315
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_112
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 315
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_113
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 313
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_114
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 312
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_115
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 315
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_116
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_117
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 315
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_118
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 315
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_119
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 315
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_120
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 296
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_121
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 299
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_122
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 299
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_123
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 299
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_124
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 299
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_125
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 296
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_126
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 299
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_127
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 299
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_128
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 299
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_129
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 299
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_130
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 299
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_131
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 299
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_132
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 299
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_133
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 163
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_134
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 163
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_135
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 163
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_136
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 157
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_137
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 163
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_138
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 163
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_139
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 159
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_140
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 160
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_141
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 121
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_143
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_144
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 49
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_145
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 17
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_146
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 13
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_147
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 16
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ogre_148
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 77
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

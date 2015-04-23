@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: c3960858816c0ef4eac5dfc250300b5a
+timeCreated: 1425605613
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: battledwarf_0
+    21300002: battledwarf_1
+    21300004: battledwarf_2
+    21300006: battledwarf_3
+    21300008: battledwarf_4
+    21300010: battledwarf_5
+    21300012: battledwarf_6
+    21300014: battledwarf_7
+    21300016: battledwarf_8
+    21300018: battledwarf_9
+    21300020: battledwarf_10
+    21300022: battledwarf_11
+    21300024: battledwarf_12
+    21300026: battledwarf_13
+    21300028: battledwarf_14
+    21300030: battledwarf_15
+    21300032: battledwarf_16
+    21300034: battledwarf_17
+    21300036: battledwarf_18
+    21300038: battledwarf_19
+    21300040: battledwarf_20
+    21300042: battledwarf_21
+    21300044: battledwarf_22
+    21300046: battledwarf_23
+    21300048: battledwarf_24
+    21300050: battledwarf_25
+    21300052: battledwarf_26
+    21300054: battledwarf_27
+    21300056: battledwarf_28
+    21300058: battledwarf_29
+    21300060: battledwarf_30
+    21300062: battledwarf_31
+    21300064: battledwarf_32
+    21300066: battledwarf_33
+    21300068: battledwarf_34
+    21300070: battledwarf_35
+    21300072: battledwarf_36
+    21300074: battledwarf_37
+    21300076: battledwarf_38
+    21300078: battledwarf_39
+    21300080: battledwarf_40
+    21300082: battledwarf_41
+    21300084: battledwarf_42
+    21300086: battledwarf_43
+    21300088: battledwarf_44
+    21300090: battledwarf_45
+    21300092: battledwarf_46
+    21300094: battledwarf_47
+    21300096: battledwarf_48
+    21300098: battledwarf_49
+    21300100: battledwarf_50
+    21300102: battledwarf_51
+    21300104: battledwarf_52
+    21300106: battledwarf_53
+    21300108: battledwarf_54
+    21300110: battledwarf_55
+    21300112: battledwarf_56
+    21300114: battledwarf_57
+    21300116: battledwarf_58
+    21300118: battledwarf_59
+    21300120: battledwarf_60
+    21300122: battledwarf_61
+    21300124: battledwarf_62
+    21300126: battledwarf_63
+    21300128: battledwarf_64
+    21300130: battledwarf_65
+    21300132: battledwarf_66
+    21300134: battledwarf_67
+    21300136: battledwarf_68
+    21300138: battledwarf_69
+    21300140: battledwarf_70
+    21300142: battledwarf_71
+    21300144: battledwarf_72
+    21300146: battledwarf_73
+    21300148: battledwarf_74
+    21300150: battledwarf_75
+    21300152: battledwarf_76
+    21300154: battledwarf_77
+    21300156: battledwarf_78
+    21300158: battledwarf_79
+    21300160: battledwarf_80
+    21300162: battledwarf_81
+    21300164: battledwarf_82
+    21300166: battledwarf_83
+    21300168: battledwarf_84
+    21300170: battledwarf_85
+    21300172: battledwarf_86
+    21300174: battledwarf_87
+    21300176: battledwarf_88
+    21300178: battledwarf_89
+    21300180: battledwarf_90
+    21300182: battledwarf_91
+    21300184: battledwarf_92
+    21300186: battledwarf_93
+    21300188: battledwarf_94
+    21300190: battledwarf_95
+    21300192: battledwarf_96
+    21300194: battledwarf_97
+    21300196: battledwarf_98
+    21300198: battledwarf_99
+    21300200: battledwarf_100
+    21300202: battledwarf_101
+    21300204: battledwarf_102
+    21300206: battledwarf_103
+    21300208: battledwarf_104
+    21300210: battledwarf_105
+    21300212: battledwarf_106
+    21300214: battledwarf_107
+    21300216: battledwarf_108
+    21300218: battledwarf_109
+    21300220: battledwarf_110
+    21300222: battledwarf_111
+    21300224: battledwarf_112
+    21300226: battledwarf_113
+    21300228: battledwarf_114
+    21300230: battledwarf_115
+    21300232: battledwarf_116
+    21300234: battledwarf_117
+    21300236: battledwarf_118
+    21300238: battledwarf_119
+    21300240: battledwarf_120
+    21300242: battledwarf_121
+    21300244: battledwarf_122
+    21300246: battledwarf_123
+    21300248: battledwarf_124
+    21300250: battledwarf_125
+    21300252: battledwarf_126
+    21300254: battledwarf_127
+    21300256: battledwarf_128
+    21300258: battledwarf_129
+    21300260: battledwarf_130
+    21300262: battledwarf_131
+    21300264: battledwarf_132
+    21300266: battledwarf_133
+    21300268: battledwarf_134
+    21300270: battledwarf_135
+    21300272: battledwarf_136
+    21300274: battledwarf_137
+    21300276: battledwarf_138
+    21300278: battledwarf_139
+    21300280: battledwarf_140
+    21300282: battledwarf_141
+    21300284: battledwarf_142
+    21300286: battledwarf_143
+    21300288: battledwarf_144
+    21300290: battledwarf_145
+    21300292: battledwarf_146
+    21300294: battledwarf_147
+    21300296: battledwarf_148
+    21300298: battledwarf_149
+    21300300: battledwarf_150
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: battledwarf_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 824
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 824
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 824
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 827
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 825
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 824
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 822
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_7
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 821
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 717
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 719
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 718
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 722
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 724
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 728
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 720
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 600
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 600
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 600
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 600
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 600
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 600
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_21
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 600
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_22
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 600
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 482
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 482
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 483
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 482
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 483
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 472
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 478
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_30
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 481
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 365
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 364
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_33
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 361
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 363
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 365
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 354
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_37
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 355
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_38
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 359
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 248
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_40
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 257
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 260
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 257
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 248
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_44
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 248
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_45
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 248
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 248
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 152
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_49
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 151
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 151
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 149
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 150
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 99
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 99
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 99
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 99
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_57
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 99
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_58
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 5
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_59
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 13
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 64
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_64
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_65
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_66
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 64
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_68
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_69
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 64
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_70
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_71
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 55
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_72
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 55
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_73
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 58
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_74
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_75
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_76
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 55
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_77
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 34
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_78
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 34
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_81
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_82
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 34
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_83
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_84
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 34
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_85
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 34
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_86
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 34
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_88
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_89
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_90
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 34
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_92
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 34
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_93
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_94
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 31
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_95
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 34
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_96
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_97
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 40
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_99
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_100
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_101
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_102
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_103
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 40
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_104
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_105
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 40
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_106
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_107
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 40
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_108
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_109
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 18
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_110
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 16
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_112
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_113
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_114
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 15
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_115
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_116
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 18
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_117
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_118
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_119
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 18
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_120
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_122
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_123
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 24
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_124
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 24
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_125
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 24
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_126
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_127
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_128
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 24
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_129
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_130
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 24
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_131
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_132
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_133
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_134
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 24
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_135
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_136
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_137
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_138
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_139
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_140
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_141
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 8
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_142
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_143
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 5
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_144
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_145
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_146
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_147
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_148
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_149
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 8
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: battledwarf_150
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
